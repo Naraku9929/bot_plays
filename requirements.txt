@@ -1,0 +1,5 @@
+twitchio
+sounddevice
+numpy
+soundfile
+mss
